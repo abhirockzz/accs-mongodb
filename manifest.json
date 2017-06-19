@@ -1,0 +1,5 @@
+{
+  "runtime":{"majorVersion":"8"},
+  "command":"java -jar acc-mongodb-dcs.jar",
+  "notes":"Sample MongoDB app on ACCS"
+}

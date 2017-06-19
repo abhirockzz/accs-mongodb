@@ -1,0 +1,8 @@
+{
+  "memory": "1G",
+  "instances": 1,
+  "environment": {
+   "MONGO_HOST":"localhost",
+   "MONGO_HOST":"27017"
+  }
+}
